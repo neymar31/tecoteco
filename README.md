@@ -1,2 +1,2 @@
-# tecoteco
-site legal
+# belquiormobile
+Site de aprendizagem de jogos construct 
